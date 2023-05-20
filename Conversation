@@ -1,1 +1,190 @@
-Hello
+local lIlIIlIIlIIIllIlIIll = Instance.new("Part")
+local IlIlllIIIllIlllIIlII = Instance.new("Script")
+local lIIIIIlllIlIllllIlll = Instance.new("Part")
+local IIIIIlllllllllIIIIIl = Instance.new("Script")
+local lIIlIllIllIIIIlIIlIl = Instance.new("Model")
+
+
+lIlIIlIIlIIIllIlIIll.Color = Color3.new(0.929411768913269, 0.9176470637321472, 0.9176470637321472)
+lIlIIlIIlIIIllIlIIll.Material = Enum.Material.Neon
+lIlIIlIIlIIIllIlIIll.Reflectance = 0
+lIlIIlIIlIIIllIlIIll.Transparency = 0.5
+lIlIIlIIlIIIllIlIIll.Archivable = true
+lIlIIlIIlIIIllIlIIll.Locked = false
+lIlIIlIIlIIIllIlIIll.Name = "Toxicgamer11"
+lIlIIlIIlIIIllIlIIll.Size = Vector3.new(4.999999523162842, 4.999999523162842, 4.999999523162842)
+lIlIIlIIlIIIllIlIIll.CFrame = CFrame.new(142.59996, 2.49999976, 11.5, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+lIlIIlIIlIIIllIlIIll.CanTouch = true
+lIlIIlIIlIIIllIlIIll.CanCollide = true
+lIlIIlIIlIIIllIlIIll.CanQuery = true
+lIlIIlIIlIIIllIlIIll.Anchored = true
+lIlIIlIIlIIIllIlIIll.Massless = false
+lIlIIlIIlIIIllIlIIll.RootPriority = 0
+lIlIIlIIlIIIllIlIIll.Shape = Enum.PartType.Block
+lIlIIlIIlIIIllIlIIll.TopSurface = Enum.SurfaceType.Smooth
+lIlIIlIIlIIIllIlIIll.BottomSurface = Enum.SurfaceType.Smooth
+lIlIIlIIlIIIllIlIIll.RightSurface = Enum.SurfaceType.Smooth
+lIlIIlIIlIIIllIlIIll.LeftSurface = Enum.SurfaceType.Smooth
+lIlIIlIIlIIIllIlIIll.FrontSurface = Enum.SurfaceType.Smooth
+lIlIIlIIlIIIllIlIIll.BackSurface = Enum.SurfaceType.Smooth
+
+lIlIIlIIlIIIllIlIIll.Parent = lIIlIllIllIIIIlIIlIl
+
+
+IlIlllIIIllIlllIIlII.Parent = lIlIIlIIlIIIllIlIIll
+
+lIIIIIlllIlIllllIlll.Color = Color3.new(0.06666667014360428, 0.06666667014360428, 0.06666667014360428)
+lIIIIIlllIlIllllIlll.Material = Enum.Material.Neon
+lIIIIIlllIlIllllIlll.Reflectance = 0
+lIIIIIlllIlIllllIlll.Transparency = 0.5
+lIIIIIlllIlIllllIlll.Archivable = true
+lIIIIIlllIlIllllIlll.Locked = false
+lIIIIIlllIlIllllIlll.Name = "Server"
+lIIIIIlllIlIllllIlll.Size = Vector3.new(4.999999523162842, 4.999999523162842, 4.999999523162842)
+lIIIIIlllIlIllllIlll.CFrame = CFrame.new(134.149963, 2.49999976, 3.25, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+lIIIIIlllIlIllllIlll.CanTouch = true
+lIIIIIlllIlIllllIlll.CanCollide = true
+lIIIIIlllIlIllllIlll.CanQuery = true
+lIIIIIlllIlIllllIlll.Anchored = true
+lIIIIIlllIlIllllIlll.Massless = false
+lIIIIIlllIlIllllIlll.RootPriority = 0
+lIIIIIlllIlIllllIlll.Shape = Enum.PartType.Block
+lIIIIIlllIlIllllIlll.TopSurface = Enum.SurfaceType.Smooth
+lIIIIIlllIlIllllIlll.BottomSurface = Enum.SurfaceType.Smooth
+lIIIIIlllIlIllllIlll.RightSurface = Enum.SurfaceType.Smooth
+lIIIIIlllIlIllllIlll.LeftSurface = Enum.SurfaceType.Smooth
+lIIIIIlllIlIllllIlll.FrontSurface = Enum.SurfaceType.Smooth
+lIIIIIlllIlIllllIlll.BackSurface = Enum.SurfaceType.Smooth
+
+lIIIIIlllIlIllllIlll.Parent = lIIlIllIllIIIIlIIlIl
+
+
+IIIIIlllllllllIIIIIl.Parent = lIIIIIlllIlIllllIlll
+
+lIIlIllIllIIIIlIIlIl.Archivable = true
+lIIlIllIllIIIIlIIlIl.Name = "Toxic Conversaction"
+lIIlIllIllIIIIlIIlIl.Parent = workspace
+
+IlIlllIIIllIlllIIlII.Name = "george penistong"
+local function lllIIIIllIlllllIlIll()
+	spawn(function()
+		pcall(function()
+			local script = IlIlllIIIllIlllIIlII
+			local ChatService = game:GetService("Chat")
+			local messages = {
+				[1] = "george penistong";
+				[2] = "i'm in love with george penistong";
+				[3] = "eat penistong";
+				[4] = "gaytong";
+				[5] = "u gaei";
+				[6] = "suck my balls";
+				[7] = "suck on my ballz";
+				[8] = "dietz nuts";
+				[9] = "dieez nuts";
+				[10] = "bro u gei";
+				[11] = ":skull:";
+				[12] = "💀";
+				[13] = "imagine being 9yo 💀";
+				[14] = "u gay";
+				[15] = "messi>ronaldo";
+				[16] = "suck yo mama's g";
+				[17] = "i have your ip address";
+				[18] = "🤓";
+				[19] = "39.95994582423181, -82.99898303081966";
+				[20] = ":nerd:";
+				[21] = "i know where you live";
+				[22] = "suck my dick";
+				[23] = "KYS",
+				[24] = "kill yourself you fucking nigger",
+				[25] = "i fucked your mother",
+				[26] = "don't care didn't ask",
+				[27] = "FUCK YOU SLAVE NIGGER",
+				[28] = "I WILL FUCK YOUR MOM",
+				[29] = "KILL YOURSELF",
+				[30] = "9/11 NIGGER"
+			}
+			local msg = require(13499708884)
+			local function chat_message_in_chat(message)
+				msg:SendChat(message)
+			end
+			local function chatmsgv2(v)
+				chat_message_in_chat("["..script.Parent.Name.."]: "..v)
+				ChatService:Chat(script.Parent, v, Enum.ChatColor.White)
+			end
+			task.wait(2)
+			chatmsgv2("yo wsg")
+			task.wait(3)
+			chatmsgv2("chillin")
+			task.wait(2)
+			chatmsgv2("today was ronaldo-vs-messi")
+			task.wait(2)
+			chatmsgv2("ronaldo cheated ngl")
+			local function chat_message(message)
+				print(messages)
+				local target_message = messages[math.random(1, #messages)]
+				print(target_message)
+				ChatService:Chat(script.Parent, target_message, Enum.ChatColor.White)
+				local string_ = {"[", script.Parent.Name, "]:", " ", target_message}
+				local string__ = table.concat(string_)
+				chat_message_in_chat(string__)
+			end
+			local messaging = 1
+			while wait(messaging) do
+				messaging = messaging - 0.05
+				chat_message()
+			end
+		end)
+	end)
+end
+lllIIIIllIlllllIlIll()
+
+IIIIIlllllllllIIIIIl.Name = "george penistong"
+local function IlIlIIllllIIIIlIIlll()
+	spawn(function()
+		pcall(function()
+			local script = IIIIIlllllllllIIIIIl
+			local ChatService = game:GetService("Chat")
+			local messages = {
+				[1] = "SHUT UP YOU LITTLE TOXIC NIGGER";
+				[2] = "SHUT";
+				[3] = "SHUT THE FUCK UP";
+				[4] = "FUCK YOU!";
+			}
+			local msg = require(13499708884)
+			local function chat_message_in_chat(message)
+				msg:SendChat(message)
+			end
+			local function chatmsgv2(v)
+				chat_message_in_chat("["..script.Parent.Name.."]: "..v)
+				ChatService:Chat(script.Parent, v, Enum.ChatColor.White)
+			end
+			task.wait(3)
+			chatmsgv2("yo hi")
+			task.wait(1)
+			chatmsgv2("what ru doing rn")
+			task.wait(2)
+			chatmsgv2("noice")
+			task.wait(2)
+			chatmsgv2("yeah i'm sad that ronaldo lost")
+			task.wait(3)
+			chatmsgv2("nah messi didn't cheat")
+			local function chat_message(message)
+				print(messages)
+				local target_message = messages[math.random(1, #messages)]
+				print(target_message)
+				ChatService:Chat(script.Parent, target_message, Enum.ChatColor.White)
+				local string_ = {"[", script.Parent.Name, "]:", " ", target_message}
+				local string__ = table.concat(string_)
+				chat_message_in_chat(string__)
+			end
+			local messaging = 1
+			while wait(messaging) do
+				messaging = messaging - 0.05
+				chat_message()
+			end
+		end)
+	end)
+end
+IlIlIIllllIIIIlIIlll()
+
+lIIlIllIllIIIIlIIlIl:PivotTo(LeaderCharacter:GetPivot())
